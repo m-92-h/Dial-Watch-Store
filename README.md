@@ -17,11 +17,10 @@ A premium, modern e-commerce platform for luxury watches, built with performance
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 19 + Vite
-- **Styling**: Tailwind CSS v4
+- **Styling**: Tailwind CSS v4, shadcn/ui
 - **State Management**: Redux Toolkit
-- **Animations**: Motion (Framer Motion)
+- **Animations**: Motion (motion/react)
 - **Routing**: React Router v7
-- **Feedback**: Sonner (Customized for premium look)
 - **Icons**: Lucide React
 
 ## 📂 Project Structure
